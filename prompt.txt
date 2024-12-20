@@ -1,0 +1,5 @@
+Generate a Go program to list the first N prime numbers.
+The program should print the prime numbers to the standard output, one per line.
+The program should be able to handle values of N up to 1000.
+
+Explain the code.
